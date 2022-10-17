@@ -1,0 +1,4 @@
+
+interface IPayment {
+    calculatePayment(): void;
+}
